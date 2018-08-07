@@ -1,5 +1,6 @@
 # palmreadingapp.github.io
 <br>
-Privacy Policy: <a href="https://palmreadingapp.github.io/privacy-policy.pdf">https://palmreadingapp.github.io/privacy-policy.pdf</a>
-<br><br>
-Terms of Use: <a href="https://palmreadingapp.github.io/terms-of-use.pdf">https://palmreadingapp.github.io/terms-of-use.pdf</a>
+<a href="https://www.facebook.com/groups/horoscopepalmreading/">Support</a><br><br>
+<a href="https://www.facebook.com/mariya.tanskaya.7">App creator</a><br><br>
+<a href="https://palmreadingapp.github.io/privacy-policy.pdf">Privacy Policy</a><br><br>
+<a href="https://palmreadingapp.github.io/terms-of-use.pdf">Terms of Use</a>
